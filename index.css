@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+}
+.topbanner{
+    background-image:url(https://cameralabs.org/media/camera/noiabr/23/53_18e2cd738f98f9e1e15699e8266d94d2.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size:100% 700px;
+    background-position: 0% 0% ;
+    color: white;
+}
+.t1{
+    border: 0;
+    margin: auto;
+    width: 90%;
+}
+.t2{
+    border: 0;
+    margin: auto;
+    width: 60%;
+}
+.t3{
+    border: 0;
+    margin: auto;
+    width: 40%;
+}
+.p1{
+    font: 25px sans-serif;
+    font-stretch:condensed;
+    color: orange;
+}
+.p2{
+    color: orange;
+}
+td{
+    text-align: center;
+    font-size: 13px;
+}
+.zaglav{
+   font: 65px sans-serif;
+    font-stretch:condensed; 
+}
+.hr1{
+    height: 3px;
+    width: 400px;
+    border:none;
+    background-color: orange;
+}
+button{
+    color: orange;
+    border-color: orange;
+    background: none;
+}
+.about{
+   font: 35px sans-serif ;
+    font-stretch:condensed;  
+}
+.hr2{
+    height: 3px;
+    width: 55px;
+    border:none;
+    background-color: orange;
+}
